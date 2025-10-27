@@ -6,7 +6,7 @@ import './Shop.css';
 import ReactLoading from 'react-loading';
 
 const Shop = () => {
-    TabTitle("Shop - SHEMA")
+    TabTitle("CloudCart")
     const [ menItems, setMenItems ] = useState()
     const [ womenItems, setWomenItems ] = useState()
     const [ kidsItems, setKidsItems ] = useState()

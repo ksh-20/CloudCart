@@ -1,5 +1,3 @@
-
-
 const itemsCollection = [
     {
         "_id": "630b7c690dd4ac34455cb262",

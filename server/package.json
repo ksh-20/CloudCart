@@ -1,18 +1,17 @@
 {
-  "name": "Shema Server",
+  "name": "CloudCart Server",
   "version": "1.0.0",
-  "description": "Test Server for SHEMA",
+  "description": "Test Server for CloudCart",
   "proxy": "http://localhost:3000/1 ",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
-    "dev": "nodemon server"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
-  "author": "Bereket Lemma",
+  "author": "Kshitij",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.12.2",
-    "axois": "^0.0.1-security",
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
